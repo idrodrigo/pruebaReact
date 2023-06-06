@@ -22,6 +22,8 @@ export function App () {
             <button onClick={handleClick}>get new fact</button>
             <Otro />
             <Otro />
+            <Otro />
+            <Otro />
         </main>
   )
 }
